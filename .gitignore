@@ -1,0 +1,9 @@
+
+venv/
+pycache/
+*.pyc
+models_disttibutes/
+model_distilbert/
+*.safetensors
+*.bin
+*.h5

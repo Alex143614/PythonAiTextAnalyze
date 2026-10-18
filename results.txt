@@ -1,0 +1,40 @@
+The application works perfectly. I use it every day. | POSITIVE | 0.9998362064361572
+The delivery was late, and the package was damaged. | NEGATIVE | 0.9997488856315613
+The product is acceptable, but nothing special. | NEGATIVE | 0.9868610501289368
+Excellent customer support and fast service! | POSITIVE | 0.9998683929443359
+The software crashes every time I open it. | NEGATIVE | 0.9997476935386658
+The headphones have clear sound and comfortable ear cushions. | POSITIVE | 0.998816967010498
+I am disappointed with the quality of this product. | NEGATIVE | 0.9998024106025696
+The website is easy to navigate and looks modern. | POSITIVE | 0.9992221593856812
+The food arrived cold and tasted terrible. | NEGATIVE | 0.9995892643928528
+The staff were friendly and helped me solve the problem. | POSITIVE | 0.9997778534889221
+The battery lasts much longer than I expected. | NEGATIVE | 0.9934428930282593
+This is the worst purchase I have made this year. | NEGATIVE | 0.9997933506965637
+The service was fine, but the price was a little high. | POSITIVE | 0.9712920188903809
+Setup was simple, and everything worked on the first try. | NEGATIVE | 0.8800448775291443
+The instructions are confusing and difficult to follow. | NEGATIVE | 0.9996402263641357
+I love the design, and the product feels very durable. | POSITIVE | 0.9998775720596313
+The order arrived two days earlier than expected. | NEGATIVE | 0.9762908220291138
+The camera quality is poor in low light. | NEGATIVE | 0.9997593760490417
+Nothing was wrong with the item, but it did not impress me. | NEGATIVE | 0.9993674159049988
+Customer support ignored my messages for several days. | NEGATIVE | 0.9995059967041016
+The new update fixed the bugs and improved performance. | POSITIVE | 0.9991808533668518
+The chair is uncomfortable after sitting for an hour. | NEGATIVE | 0.9986019730567932
+The subscription is affordable and offers great value. | POSITIVE | 0.9998192191123962
+The app is slow and drains my phone battery. | NEGATIVE | 0.9992421865463257
+The hotel room was clean, quiet, and comfortable. | POSITIVE | 0.9998396635055542
+The product stopped working after only one week. | NEGATIVE | 0.9996273517608643
+The packaging was neat, and the item matched the description. | POSITIVE | 0.9996033310890198
+The meal was okay, although the portions were small. | POSITIVE | 0.9994032382965088
+I received the wrong item and had to return it. | NEGATIVE | 0.9995986819267273
+The course was informative, engaging, and well organized. | POSITIVE | 0.9998718500137329
+The printer works as expected, with no major issues. | NEGATIVE | 0.9377621412277222
+I would not recommend this service to anyone. | NEGATIVE | 0.9383019208908081
+The screen is bright, sharp, and easy to read. | POSITIVE | 0.9998366832733154
+The repair took longer than promised, but the result is good. | POSITIVE | 0.9997124075889587
+The price is reasonable for the features provided. | POSITIVE | 0.9978078007698059
+The instructions were clear, and installation took ten minutes. | NEGATIVE | 0.9931981563568115
+The sound quality is average, and the controls feel cheap. | NEGATIVE | 0.9997779726982117
+I had a wonderful experience from start to finish. | POSITIVE | 0.9998859167098999
+The product looks nice, but it does not work properly. | NEGATIVE | 0.9996659755706787
+The support team resolved my issue quickly and professionally. | POSITIVE | 0.9901542067527771
